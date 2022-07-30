@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Minxu-Kim
+- 👋 Hi, I’m @Minxu-Kim undergraduated CS
 - 👀 I’m interested in any Computer science/engineering specialy imbeded programming & system programming.
-- 🌱 I’m currently learning Data Structure/C/java
-- 💞️ I’m looking to collaborate on back-end developing
+- 🌱 I’m currently learning Data Structure&Algorithm implemented by C
+
 - 📫 How to reach me by an e-mail mxu0x00235711@gmail.com 
+
 - Good morning! 
 - Good afternoon! 
 - Good evening!
